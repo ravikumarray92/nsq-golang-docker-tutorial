@@ -15,4 +15,4 @@ Browse to the admin UI: http://localhost:4171/
     
 build a docker container with our consumer app in it
     
-  docker build -t nsq-consumer -f Dockerfile-consumer .
+  	docker build -t nsq-consumer -f Dockerfile-consumer .
